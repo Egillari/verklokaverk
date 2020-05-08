@@ -16,4 +16,4 @@ gerði það sama og í gær nema núna fyrir hina motorina til að beygja og er
 * [TinkerCad Teikning](https://www.tinkercad.com/things/jT2s9SYgeqt-car-vesm-lokaverk)
 * [Linkur á 3D hönnunarteikningu](https://www.tinkercad.com/things/4GCflfUhMTD-arduino-8x8-matrix-joystick-casing)
 * [Skjáupptaka af virkni í tinkercad](https://www.youtube.com/watch?v=cdI8cF3Ws3w)
-[](https://github.com/Egillari/verklokaverk/blob/master/Car-Vesm-LOkaverk.png)
+![](https://github.com/Egillari/verklokaverk/blob/master/Car-Vesm-LOkaverk.png)
