@@ -11,3 +11,7 @@ Kláraði partinn þar sem Fjarstýringinn er notuð til að hreyfa DC motorana 
 ### dagur 5 
 gerði það sama og í gær nema núna fyrir hina motorina til að beygja og er þá búinn með kóðunnina
 ###
+* [Linkur á kóðaskrá](https://github.com/Egillari/verkefni_3/blob/master/matrix.ino)
+* [Linkur á kóðaskrá](https://github.com/Egillari/verkefni_3/blob/master/matrix.ino)
+* [TinkerCad Teikning](https://www.tinkercad.com/things/jT2s9SYgeqt-car-vesm-lokaverk)
+* [Linkur á 3D hönnunarteikningu](https://www.tinkercad.com/things/4GCflfUhMTD-arduino-8x8-matrix-joystick-casing)
