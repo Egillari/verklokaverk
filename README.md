@@ -1,4 +1,4 @@
-# verklokaverk
+# Lokaverkefni
 ## Dagbók
 ### dagur 1
 Ég bjó til grunn á tengingum og rétt byrjaði að kóða
