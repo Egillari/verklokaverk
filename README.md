@@ -15,3 +15,4 @@ gerði það sama og í gær nema núna fyrir hina motorina til að beygja og er
 * [Linkur á kóðaskrá fyrir fjarstýringuna](https://github.com/Egillari/verklokaverk/blob/master/fjarstyr.ino)
 * [TinkerCad Teikning](https://www.tinkercad.com/things/jT2s9SYgeqt-car-vesm-lokaverk)
 * [Linkur á 3D hönnunarteikningu](https://www.tinkercad.com/things/4GCflfUhMTD-arduino-8x8-matrix-joystick-casing)
+* [Skjáuptaka af virkni í tinkercad](https://www.youtube.com/watch?v=cdI8cF3Ws3w)
