@@ -14,6 +14,7 @@ gerði það sama og í gær nema núna fyrir hina motorina til að beygja og er
 * [Linkur á kóðaskrá fyrir bílinn](https://github.com/Egillari/verklokaverk/blob/master/billRc.ino)
 * [Linkur á kóðaskrá fyrir fjarstýringuna](https://github.com/Egillari/verklokaverk/blob/master/fjarstyr.ino)
 * [TinkerCad Teikning](https://www.tinkercad.com/things/jT2s9SYgeqt-car-vesm-lokaverk)
-* [Linkur á 3D hönnunarteikningu](https://www.tinkercad.com/things/4GCflfUhMTD-arduino-8x8-matrix-joystick-casing)
+* [Linkur á 3D hönnunarteikningu](https://www.tinkercad.com/things/6A5ysCWvwNb-rc-umgjorning)
 * [Skjáupptaka af virkni í tinkercad](https://www.youtube.com/watch?v=cdI8cF3Ws3w)
 ![](https://github.com/Egillari/verklokaverk/blob/master/Car-Vesm-LOkaverk.png)
+![](https://github.com/Egillari/verklokaverk/blob/master/rc%20umgj%C3%B6rning.png)
