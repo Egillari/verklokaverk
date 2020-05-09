@@ -10,7 +10,8 @@ notaði tíman og kláraði kóðan svo að ultrasonic sencor tengist við LCD o
 Kláraði partinn þar sem Fjarstýringinn er notuð til að hreyfa DC motorana framm og aftur
 ### dagur 5 
 gerði það sama og í gær nema núna fyrir hina motorina til að beygja og er þá búinn með kóðunnina
-###
+### dagur 6
+Ég gerði 3D umgjörðina í kringum bílinn og fjarstyringuna
 * [Linkur á kóðaskrá fyrir bílinn](https://github.com/Egillari/verklokaverk/blob/master/billRc.ino)
 * [Linkur á kóðaskrá fyrir fjarstýringuna](https://github.com/Egillari/verklokaverk/blob/master/fjarstyr.ino)
 * [TinkerCad Teikning](https://www.tinkercad.com/things/jT2s9SYgeqt-car-vesm-lokaverk)
